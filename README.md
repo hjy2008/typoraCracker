@@ -56,6 +56,3 @@ XXXXXX-XXXXXX-XXXXXX-XXXXXX
 email: crack@example.com
 serial: XXXXXX-XXXXXX-XXXXXX-XXXXXX
 ```
-
-## LICENSE
- MIT LICENSE
