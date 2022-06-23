@@ -15,12 +15,26 @@
 ## 食用方式
 
 1. `pip install -r requirements.txt`
+
 2. `python typroa.py --help`
+
 3. 阅读帮助文档及使用。
+
 4. 修改导出的 License.js。
+
 5. 替换原目录下的 app.asar。
+
 6. 运行KeyGen程序。
+
 7. 正常激活。
+
+## 库的安装
+```cmd
+pip install -i http://pypi.douban.com/simple --trusted-host pypi.douban.com jsbeautifier==1.14.0
+pip install -i http://pypi.douban.com/simple --trusted-host pypi.douban.com jsmin==3.0.0
+pip install -i http://pypi.douban.com/simple --trusted-host pypi.douban.com loguru==0.5.3
+pip install -i http://pypi.douban.com/simple --trusted-host pypi.douban.com pycryptodome==3.11.0
+```
 
 
 ## 示例
