@@ -14,7 +14,7 @@ from jsmin import jsmin
 from os import listdir, urandom, makedirs
 from os.path import isfile, isdir, join as pjoin, split as psplit
 from loguru import logger as log
-from masar import extract_asar, pack_asar
+from .masar import extract_asar, pack_asar
 import argparse
 
 key = [0x4B029A9482B3E14E, 0xF157FEB4B4522F80, 0xE25692105308F4BE, 0x6DD58DDDA3EC0DC2]
